@@ -1,0 +1,7 @@
+smtp: {
+  addr_to: "",
+  addr_from: "",
+  subject: "",
+  username: "",
+  password: ""
+}
